@@ -1,0 +1,44 @@
+{
+    "total_records": 100,
+    "correct_predictions": 100,
+    "incorrect_predictions": 0,
+    "accuracy": 100.0,
+    "processing_time_seconds": 0.000555,
+    "class_metrics": {
+        "normal": {
+            "precision": 100.0,
+            "recall": 100.0,
+            "true_positive": 60,
+            "false_positive": 0,
+            "false_negative": 0
+        },
+        "pricing_mismatch": {
+            "precision": 100.0,
+            "recall": 100.0,
+            "true_positive": 10,
+            "false_positive": 0,
+            "false_negative": 0
+        },
+        "settlement_mismatch": {
+            "precision": 100.0,
+            "recall": 100.0,
+            "true_positive": 10,
+            "false_positive": 0,
+            "false_negative": 0
+        },
+        "refund_adjustment": {
+            "precision": 100.0,
+            "recall": 100.0,
+            "true_positive": 10,
+            "false_positive": 0,
+            "false_negative": 0
+        },
+        "ambiguous_location": {
+            "precision": 100.0,
+            "recall": 100.0,
+            "true_positive": 10,
+            "false_positive": 0,
+            "false_negative": 0
+        }
+    }
+}

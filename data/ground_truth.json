@@ -1,0 +1,402 @@
+[
+    {
+        "transaction_id": "TXN0001",
+        "case_type": "pricing_mismatch"
+    },
+    {
+        "transaction_id": "TXN0002",
+        "case_type": "pricing_mismatch"
+    },
+    {
+        "transaction_id": "TXN0003",
+        "case_type": "pricing_mismatch"
+    },
+    {
+        "transaction_id": "TXN0004",
+        "case_type": "pricing_mismatch"
+    },
+    {
+        "transaction_id": "TXN0005",
+        "case_type": "pricing_mismatch"
+    },
+    {
+        "transaction_id": "TXN0006",
+        "case_type": "pricing_mismatch"
+    },
+    {
+        "transaction_id": "TXN0007",
+        "case_type": "pricing_mismatch"
+    },
+    {
+        "transaction_id": "TXN0008",
+        "case_type": "pricing_mismatch"
+    },
+    {
+        "transaction_id": "TXN0009",
+        "case_type": "pricing_mismatch"
+    },
+    {
+        "transaction_id": "TXN0010",
+        "case_type": "pricing_mismatch"
+    },
+    {
+        "transaction_id": "TXN0011",
+        "case_type": "settlement_mismatch"
+    },
+    {
+        "transaction_id": "TXN0012",
+        "case_type": "settlement_mismatch"
+    },
+    {
+        "transaction_id": "TXN0013",
+        "case_type": "settlement_mismatch"
+    },
+    {
+        "transaction_id": "TXN0014",
+        "case_type": "settlement_mismatch"
+    },
+    {
+        "transaction_id": "TXN0015",
+        "case_type": "settlement_mismatch"
+    },
+    {
+        "transaction_id": "TXN0016",
+        "case_type": "settlement_mismatch"
+    },
+    {
+        "transaction_id": "TXN0017",
+        "case_type": "settlement_mismatch"
+    },
+    {
+        "transaction_id": "TXN0018",
+        "case_type": "settlement_mismatch"
+    },
+    {
+        "transaction_id": "TXN0019",
+        "case_type": "settlement_mismatch"
+    },
+    {
+        "transaction_id": "TXN0020",
+        "case_type": "settlement_mismatch"
+    },
+    {
+        "transaction_id": "TXN0021",
+        "case_type": "refund_adjustment"
+    },
+    {
+        "transaction_id": "TXN0022",
+        "case_type": "refund_adjustment"
+    },
+    {
+        "transaction_id": "TXN0023",
+        "case_type": "refund_adjustment"
+    },
+    {
+        "transaction_id": "TXN0024",
+        "case_type": "refund_adjustment"
+    },
+    {
+        "transaction_id": "TXN0025",
+        "case_type": "refund_adjustment"
+    },
+    {
+        "transaction_id": "TXN0026",
+        "case_type": "refund_adjustment"
+    },
+    {
+        "transaction_id": "TXN0027",
+        "case_type": "refund_adjustment"
+    },
+    {
+        "transaction_id": "TXN0028",
+        "case_type": "refund_adjustment"
+    },
+    {
+        "transaction_id": "TXN0029",
+        "case_type": "refund_adjustment"
+    },
+    {
+        "transaction_id": "TXN0030",
+        "case_type": "refund_adjustment"
+    },
+    {
+        "transaction_id": "TXN0031",
+        "case_type": "ambiguous_location"
+    },
+    {
+        "transaction_id": "TXN0032",
+        "case_type": "ambiguous_location"
+    },
+    {
+        "transaction_id": "TXN0033",
+        "case_type": "ambiguous_location"
+    },
+    {
+        "transaction_id": "TXN0034",
+        "case_type": "ambiguous_location"
+    },
+    {
+        "transaction_id": "TXN0035",
+        "case_type": "ambiguous_location"
+    },
+    {
+        "transaction_id": "TXN0036",
+        "case_type": "ambiguous_location"
+    },
+    {
+        "transaction_id": "TXN0037",
+        "case_type": "ambiguous_location"
+    },
+    {
+        "transaction_id": "TXN0038",
+        "case_type": "ambiguous_location"
+    },
+    {
+        "transaction_id": "TXN0039",
+        "case_type": "ambiguous_location"
+    },
+    {
+        "transaction_id": "TXN0040",
+        "case_type": "ambiguous_location"
+    },
+    {
+        "transaction_id": "TXN0041",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0042",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0043",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0044",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0045",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0046",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0047",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0048",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0049",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0050",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0051",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0052",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0053",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0054",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0055",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0056",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0057",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0058",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0059",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0060",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0061",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0062",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0063",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0064",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0065",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0066",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0067",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0068",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0069",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0070",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0071",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0072",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0073",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0074",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0075",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0076",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0077",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0078",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0079",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0080",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0081",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0082",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0083",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0084",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0085",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0086",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0087",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0088",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0089",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0090",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0091",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0092",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0093",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0094",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0095",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0096",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0097",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0098",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0099",
+        "case_type": "normal"
+    },
+    {
+        "transaction_id": "TXN0100",
+        "case_type": "normal"
+    }
+]

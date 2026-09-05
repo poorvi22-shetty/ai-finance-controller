@@ -1,0 +1,40 @@
+[
+    {
+        "transaction_id": "TXN0001",
+        "initial_status": "PRICING_MISMATCH",
+        "initial_reason": "Payment amount does not match the applicable pricing policy",
+        "ai_investigation": {
+            "classification": "PRICING_MISMATCH",
+            "explanation": "The transaction was flagged because the payment amount (\u20b91,470) is \u20b9630 lower than the expected price for the 'starter' plan in GB (\u20b92,100) as defined by the pricing policy. The settlement amount matches the expected settlement after fees, but the underlying payment does not meet the policy price, indicating a pricing discrepancy.",
+            "financial_impact": 630,
+            "confidence": 0.92,
+            "evidence": [
+                "transaction",
+                "reconciliation_result",
+                "relevant_policy"
+            ],
+            "recommendation": "Conduct a detailed review to determine why the payment amount is lower than the policy price. Check for approved discounts, promotional codes, or manual adjustments that may justify the reduced amount. If no legitimate justification is found, initiate a corrective action to recover the shortfall or adjust the invoice accordingly."
+        }
+    },
+    {
+        "transaction_id": "TXN0011",
+        "initial_status": "SETTLEMENT_MISMATCH",
+        "initial_reason": "Actual settlement does not match the calculated expected settlement",
+        "ai_investigation": {
+            "classification": "SETTLEMENT_MISMATCH",
+            "explanation": "The settlement amount recorded (15380 INR) is 300 INR lower than the expected settlement (15680 INR). The transaction record includes an adjustment_amount of 300 INR, which exactly accounts for the settlement shortfall. Therefore the mismatch is explained by a legitimate adjustment rather than an error or fraud.",
+            "financial_impact": -300.0,
+            "confidence": 0.96,
+            "evidence": [
+                "order_amount: 16000",
+                "fee_amount: 320.0",
+                "expected_settlement: 15680.0",
+                "settlement_amount: 15380.0",
+                "adjustment_amount: 300",
+                "settlement_difference: -300.0",
+                "billing_country, card_country, ip_country: GB"
+            ],
+            "recommendation": "No further investigation required; confirm that the 300 INR adjustment was authorized and correctly applied."
+        }
+    }
+]
